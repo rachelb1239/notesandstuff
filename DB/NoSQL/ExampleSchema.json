@@ -1,0 +1,12 @@
+{ "product_id": "number",
+  "rating": "int",
+  "summary": "text",
+  "body": "text",
+  "recommended": "bool",
+  "name": "text",
+  "email": "text",
+  "photos": ["text"],
+  "characteristics": {"id": "number"},
+  "helpfulness": "number",
+  "response": "text"
+ }
